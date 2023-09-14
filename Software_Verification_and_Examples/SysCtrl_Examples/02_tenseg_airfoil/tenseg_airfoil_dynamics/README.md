@@ -1,0 +1,2 @@
+This folder contains the dynamics of the tensegeiry airfoil generated using tsgFEM software.
+Reference: Ma, Shuo, Muhao Chen, and Robert E. Skelton. "TsgFEM: Tensegrity Finite Element Method." Journal of Open Source Software 7.75 (2022): 3390.

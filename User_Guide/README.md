@@ -1,0 +1,1 @@
+We suggest that new users take the time to carefully go through the accompanying PDF, which offers in-depth guidance on maximizing the utility of this software. Your feedback is highly valued, and we thank you in advance for it!

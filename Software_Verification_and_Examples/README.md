@@ -1,0 +1,3 @@
+The tsgDMC folder includes examples of data-based system identification and system control. In order to gain a better understanding of this software, we recommend that users begin by reading two files: '01_pendulum' in the SysCtrl_Examples folder and '01_pendulum' in the SysID_Examples folder.
+
+To streamline the testing procedure, users can also execute the auto_SysCtrl_test.m and auto_SysID_test.m files for conducting simulation examples.
