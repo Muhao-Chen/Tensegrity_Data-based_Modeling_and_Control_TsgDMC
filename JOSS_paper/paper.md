@@ -16,7 +16,7 @@ authors:
     orcid: 0000-0001-6503-9115
     affiliation: 3
 affiliations:
- - name: School of Future Science and Engineering, Soochow University, Suzhou, Jiangsu, Chnia
+ - name: School of Future Science and Engineering, Soochow University, Suzhou, Jiangsu, China
    index: 1
  - name: Department of Mechanical and Aerospace Engineering, University of Kentucky, Lexington, KY, USA
    index: 2
@@ -41,7 +41,6 @@ Data-based system control:
 
   1. Regulation: Implements an optimal LQG control law, minimizing the cumulative outputs and inputs using Markov parameters.
   2. Reference Tracking: Achieves an optimal LQG control law that reduces the accumulation of tracking discrepancies and input variations, utilizing Markov parameters
-
 
 # Statement of need
 
